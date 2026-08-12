@@ -66,11 +66,11 @@ Then enter your name and start answering the questions.
 ```text
 What is your name: Sufyan
 
-Welcome sir Sufyan, may wish you won!
+Welcome sir Sufyan, may wish you will win!
 
 Who was the first Mughal emperor in India?: Babur
 
-Correct answer you have won Rs. 100000
+Correct answer you have won Rs. 100,000 
 ```
 
 ## 🚀 Future Improvements
@@ -78,7 +78,6 @@ Correct answer you have won Rs. 100000
 Some features that can be added later:
 
 * Add more questions
-* Add multiple-choice options
 * Add lifelines such as 50/50
 * Add a timer
 * Add a score system
